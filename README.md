@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Dhiraj Yadav, a 3rd year Computer Engineering student at Mumbai University!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj1543&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj1543" /> </p>
-<img align ="right" width=350 alt="coding" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*1Xm4NjD-yZ0NF8rOhw1dsw.gif">
+<img align ="right" width=300 alt="coding" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*1Xm4NjD-yZ0NF8rOhw1dsw.gif">
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA)
 Competitive programming, and sometimes web development too 🌊
 
